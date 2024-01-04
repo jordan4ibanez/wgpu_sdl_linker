@@ -4,7 +4,7 @@ version = "1.0.0"
 edition = "2021"
 description = "A micro library which allows linking wgpu surface into an SDL2 window safely."
 authors = ["jordan4ibanez"]
-license = "GPL-2.1"
+license = "GPL-2.0-or-later"
 keywords = ["utility", "simple", "sdl2", "wgpu"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
