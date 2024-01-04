@@ -1,0 +1,11 @@
+[package]
+name = "wgpu_sdl_linker"
+version = "1.0.0"
+edition = "2021"
+description = "A micro library which allows linking wgpu surface into an SDL2 window safely."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sdl2 = { version = "*", features = ["raw-window-handle"] }
+wgpu = "*"
