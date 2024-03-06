@@ -1,6 +1,6 @@
 [package]
 name = "wgpu_sdl_linker"
-version = "1.0.0"
+version = "1.1.0"
 edition = "2021"
 description = "A micro library which allows linking wgpu surface into an SDL2 window safely."
 authors = ["jordan4ibanez"]
