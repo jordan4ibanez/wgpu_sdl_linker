@@ -11,4 +11,4 @@ keywords = ["utility", "simple", "sdl2", "wgpu"]
 
 [dependencies]
 sdl2 = { version = "0.36.0", features = ["raw-window-handle"] }
-wgpu = "0.19.3"
+wgpu = "0.18.0"
